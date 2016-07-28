@@ -1,0 +1,28 @@
+{
+  "name": "active-bingo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^0.14.27",
+    "@types/react-dom": "^0.14.14",
+    "@types/typescript": "^0.4.26",
+    "css-loader": "^0.23.1",
+    "source-map-loader": "^0.1.5",
+    "style-loader": "^0.13.1",
+    "ts-loader": "^0.8.2",
+    "tslint": "^3.14.0",
+    "typed-css-modules": "^0.1.10",
+    "typescript": "^2.0.0",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  }
+}
